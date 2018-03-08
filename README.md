@@ -9,10 +9,11 @@ Social Network Website
 <li>Yon can check profile pic of any member</li>
 <li>you can post newsfeed and share each other post especially timeline</li>
 </b>
-
-<h1>We have given you database having fixed business logics you have to just put it or import into your database</h1>
-<h2>We have provided you full source code...</h2>
-<h3>We accept your bugs and we are ready to  modify according to your logics if we like it instead</h3>
+<ul>
+  <B>How to Use it</B>
+  <b>Use any extractor tool like winrar/winzip and extract RPS Connection.rar into your folder</b>
+  <br/>
+  <b>just download database.sql and import it </b>
 
 
 Enjoy!!
